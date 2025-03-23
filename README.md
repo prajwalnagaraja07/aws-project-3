@@ -43,7 +43,9 @@ The model uses the optimal hyperparameters found in the previous step:
 In the Jupyter notebook, various rules for the debugger and profiler were configured. Additionally, the training now utilizes 20% of the dataset images. Ideally, the training would use the full dataset, but this would make the job take an impractically long time.
 
 ### Results
-Profiler results are located in HTML file [here](ProfilerReport/profiler-reports/profiler-report.html).
+Profiler results are located in HTML file [here](ProfilerReport/profiler-report.html).
+Profiler notebook are located in file [here](ProfilerReport/profiler-report.ipynb).
+Profiler files are located in [here](ProfilerReport/profiler-reports).
 
 The plot shows the learning parameters over time as presented in figure below:
 ![Plot of cross entropy over debug samples](training_debug_values.png "Plot of cross entropy")
