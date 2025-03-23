@@ -56,5 +56,7 @@ An example of the preprocessing procedure can be found in the notebook [`train_a
 The trained model produces the correct results for the test image.
 
 A screenshot of the deployed active endpoint in Sagemaker.
-![A screenshot of the deployed endpoint](deployed_endpoint.png "A screenshot of the deployed endpoint")
+![A screenshot of the deployed endpoint](Endpoint.png "A screenshot of the deployed endpoint")
+![A screenshot of the deployed endpoint summary](EndpointSummary.png "A screenshot of the deployed endpoint summary")
+
 
